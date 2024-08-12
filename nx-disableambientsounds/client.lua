@@ -1,4 +1,3 @@
-
 -- Disables all ambient sounds, comment out anything you still want
 Citizen.CreateThread(function()
     StartAudioScene("DLC_MPHEIST_TRANSITION_TO_APT_FADE_IN_RADIO_SCENE")
